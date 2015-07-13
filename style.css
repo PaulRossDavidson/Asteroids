@@ -28,7 +28,7 @@ body {
 	position: absolute;
 	width: 95%;
 	height: 95%;
-	background-image: url(earth.jpg);
+	background-image: url(http://goo.gl/4RzZmI);
 	/*url(http://goo.gl/4RzZmI);*/
 	background-size: cover;
 	border-radius: 15px;
@@ -49,7 +49,7 @@ body {
 	width: 80px;
 	height:	80px;
 	border-radius: 50%;
-	background-image: url(roid.gif);
+	background-image: url(http://goo.gl/7U0GaK);
 	/*url(http://goo.gl/7U0GaK);*/
 	margin-right: auto;
 	margin-left: auto;
@@ -62,7 +62,7 @@ body {
 	height: 95%;
 	font-family: impact;
 	background-image: 
-	url(t-rex.jpg);
+	url(http://goo.gl/aOXkIg);
 	/*http://goo.gl/aOXkIg*/
 	background-size: cover;
 	display: none;
