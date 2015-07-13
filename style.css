@@ -1,0 +1,109 @@
+#playerInfo {
+	float: right;
+	text-align: right;
+	color: white;
+	padding-right: 25px;
+}
+body {
+	background-color: d3d3d3;
+	margin-top: 2%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-bottom: 3%;
+	background-size: cover;
+}
+.modal-body {
+	text-align: center;
+	font-size: 2em;
+}
+.modal-title {
+	font-weight: bold;
+	font-size: 3em;
+	text-align: center;
+}
+.modal-footer {
+	color: d3d3d3;
+}
+#play {
+	position: absolute;
+	width: 95%;
+	height: 95%;
+	background-image: url(earth.jpg);
+	/*url(http://goo.gl/4RzZmI);*/
+	background-size: cover;
+	border-radius: 15px;
+}
+#earth {
+	width: 100%;
+	height: 100px;
+	position: absolute; 
+	bottom: 0;
+	
+}
+
+#roid {
+	position: absolute;
+	top: 0;
+	left: 300;
+	right: 500;
+	width: 80px;
+	height:	80px;
+	border-radius: 50%;
+	background-image: url(roid.gif);
+	/*url(http://goo.gl/7U0GaK);*/
+	margin-right: auto;
+	margin-left: auto;
+	bottom: "";
+	background-size: cover;
+}
+#death {
+	position: absolute;
+	width: 95%;
+	height: 95%;
+	font-family: impact;
+	background-image: 
+	url(t-rex.jpg);
+	/*http://goo.gl/aOXkIg*/
+	background-size: cover;
+	display: none;
+	border-radius: 15px;
+	text-align: center;
+}
+#announce {
+	width: 80%;
+	height: 200px;
+	font-weight: bold;
+	color: black;
+	font-size: 4em;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding-top: 20px;
+	text-align: center;
+}
+.finalScore {
+	position: absolute;
+	width: 60%;
+	height: 25%;
+	top: 40%;
+	margin-top: 0%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 25%;
+	text-align: center;
+	font-size: 4em;
+	color: black;
+}
+
+h2 {
+	font-weight: bold;
+}
+#player2Go {
+	position: absolute;
+	bottom: 100;
+	left: 43%;
+	right: 43%;
+	background-color: green;
+	color: black;
+}
